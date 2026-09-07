@@ -205,3 +205,7 @@ PowerShell syntax and real installer/update smoke tests should be run on Windows
 - Keep logically related fixes together; avoid metadata-only churn and unrelated formatting changes.
 - Do not push, merge, or modify `main` unless the user explicitly asks for it.
 - When delivering a packaged app, state exactly which source files were synchronized into the artifact and whether the running daemon/WorkBuddy process was restarted.
+
+
+## 改进清单
+仓库改进建议见 `docs/改进建议-2026-09-07.md`（P0/P1/P2 分级，带状态勾选）。
